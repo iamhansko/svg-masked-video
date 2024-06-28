@@ -1,8 +1,8 @@
 # svg-masked-video
 
-SVG Mask(`<text>`) on a Video(`<video>`)
+SVG Mask(`<text>`) on a Video(`<video>`) ([🇰🇷 References](https://gobongbap.com/hyunsuko/SVG-ba989eb955ff4e2e901e057ca5f2a8a5))
 
-![preview](docs/preview.png)
+![preview](docs/preview.gif)
 
 ### index.html
 ```html
